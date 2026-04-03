@@ -16,120 +16,41 @@
 
 <br>
 
----
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> `SYSTEM INITIALIZING...`
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                   🤖  AGENT PROFILE LOADED                      ║
-╠══════════════════════════════════════════════════════════════════╣
-║  NAME       ──▶  Dhivya Shri                                    ║
-║  ROLE       ──▶  AI/ML Developer & Data Engineer                ║
-║  BASE       ──▶  India 🇮🇳                                       ║
-║  LANGUAGES  ──▶  Python | Java | C | C++ | R                   ║
-║  MISSION    ──▶  Building Intelligent Systems                   ║
-║  STATUS     ──▶  ████████████████░░░░  ALWAYS LEARNING         ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🚀 Featured Projects
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> `NEURAL CORE — SKILLS.AI`
+### 🔥 Project Title 1: [Deployed Link] | [GitHub Repo]
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,r&theme=dark&perline=5" />
-</p>
-<p align="center"><b>〔 LANGUAGES 〕</b></p>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&theme=dark&perline=5" />
-</p>
-<p align="center"><b>〔 AI / ML STACK 〕</b></p>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,html,css,js&theme=dark&perline=5" />
-</p>
-<p align="center"><b>〔 WEB & BACKEND 〕</b></p>
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,github,figma,vscode,linux&theme=dark&perline=5" />
-</p>
-<p align="center"><b>〔 TOOLS & PLATFORMS 〕</b></p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+*   **Optimized GitHub Description (1-2 lines):** A brief, impactful summary of the project.
+*   **Problem Statement:** What real-world problem does this project solve?
+*   **Technical Approach:** High-level overview of the architecture, models, and algorithms.
+*   **Key Features:**
+    *   Feature 1
+    *   Feature 2
+    *   Feature 3
+*   **Tech Stack:** `Python`, `TensorFlow`, `Flask`, `Docker`, `AWS S3`
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> `MISSION CONTROL`
+### 🔥 Project Title 2: [Deployed Link] | [GitHub Repo]
 
-<br>
+*   **Optimized GitHub Description (1-2 lines):** A brief, impactful summary of the project.
+*   **Problem Statement:** What real-world problem does this project solve?
+*   **Technical Approach:** High-level overview of the architecture, models, and algorithms.
+*   **Key Features:**
+    *   Feature 1
+    *   Feature 2
+    *   Feature 3
+*   **Tech Stack:** `PyTorch`, `Scikit-learn`, `Streamlit`, `Pandas`
 
-<table align="center" border="0">
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🔭 Currently Deploying
-```yaml
-projects:
-  - name: Smart Classroom Manager
-    stack: [Python, AI, Backend]
-    status: 🟢 Active
-
-  - name: AI/ML Research Projects  
-    stack: [TensorFlow, PyTorch]
-    status: 🟡 Training...
-
-  - name: Data Analysis Pipelines
-    stack: [Pandas, Power BI, R]
-    status: 🟢 Active
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🧬 Currently Compiling
-```yaml
-learning:
-  - Deep Learning Architectures
-  - Full-Stack Development
-  - Advanced Optimization Algos
-  - MLOps & Model Deployment
-
-open_to:
-  - Open Source AI/ML Collabs
-  - Innovative Data Projects
-  - Analytical Simulations
-```
-
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -173,31 +94,7 @@ open_to:
 <br>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/dhivya-shri-153441290/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/_dhivyashrii_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:dhivyashri1385@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/DhivyaShri1385)
-
-<br>
-
-```
-"The best way to predict the future is to CREATE it with AI." 
-                                              — Dhivya Shri 🤖
-```
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=DhivyaShri1385&style=for-the-badge&color=7b2ff7&label=PROFILE+VIEWS&labelColor=0d1117" />
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00ffff,100:7b2ff7&height=120&section=footer&text=Keep+Building.+Keep+Learning.+Keep+Shipping.&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling"/>
-
----
-
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=0d1117&textColor=00ffff&borderColor=7b2ff7" alt="Dev Joke" />
+  <a href="https://www.linkedin.com/in/dhivya-shri-153441290/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"></a>
+  <a href="https://github.com/DhivyaShri1385"><img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"></a>
+  <a href="mailto:dhivyashri1385@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"></a>
 </div>
