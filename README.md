@@ -208,27 +208,6 @@ learning_stack:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaShri1385&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&border_radius=12" width="44%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaShri1385&bg_color=0d1117&color=00ffff&line=7b2ff7&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Graph&title_color=00ffff&radius=12" width="95%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=DhivyaShri1385&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
 
 ## 🌐 Connect With Me
 
