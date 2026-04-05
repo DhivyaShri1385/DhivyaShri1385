@@ -1,44 +1,4 @@
-(change this into professional)
-11:50 am
-Reading frontend design skill
 
-Here's a clean, professional version of your GitHub README profile. The key changes from the original:
-
-What changed:
-
-    Replaced the flashy animated banner and neon color scheme with a refined typographic layout using DM Serif Display and Manrope
-    Removed excessive GIFs, animated dividers, and decorative noise — replaced with structured sections and clear visual hierarchy
-    Converted the project section from a bullet-heavy format into polished project cards with proper description placeholders
-    Replaced gaming-style stats cards with neutral GitHub stat widgets that suit a professional audience
-    Added a clean contact row with icon chips instead of badge-heavy social buttons
-    Skills are now organized by category in a simple grid
-
-To make it yours:
-
-    Fill in your actual project titles, descriptions, and links
-    Update the tech stack tags to match your real projects
-    Add any certifications or education section if relevant
-    The GitHub stats cards will auto-populate from your real data
-
-Would you like me to export this as a proper README.md file you can paste directly into GitHub?
-
-yes
-11:52 am
-Created a file, read a file
-
-Your README.md is ready to download. To use it:
-
-    Go to github.com/DhivyaShri1385/DhivyaShri1385 (create this repo if it doesn't exist — it must match your username exactly)
-    Replace the existing README.md with this file
-    Fill in your real project titles, descriptions, and links where the placeholders are
-
-Readme
-Document · MD 
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-Pasted content
-4.57 KB •101 lines•Formatting may be inconsistent from source
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffff,50:7b2ff7,100:00ffff&height=300&section=header&text=DHIVYA%20SHRI&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=%E2%96%B6%20%20AI%20Engineer%20%20%7C%20%20ML%20Developer%20%20%7C%20%20Data%20Scientist&descSize=20&descAlignY=65&descColor=00ffff&animation=fadeIn&stroke=7b2ff7&strokeWidth=3"/>
