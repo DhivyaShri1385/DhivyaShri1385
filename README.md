@@ -1,46 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffff,30:7b2ff7,70:ff2d9b,100:00ffff&height=280&section=header&text=DHIVYA%20SHRI&fontSize=75&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Data%20Scientist&descSize=18&descAlignY=62&descColor=00ffff&animation=fadeIn&stroke=00ffff&strokeWidth=2" width="100%"/>
+<!-- HEADER — capsule-render is very reliable -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffff,30:7b2ff7,70:ff2d9b,100:00ffff&height=280&section=header&text=DHIVYA%20SHRI&fontSize=75&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Data%20Scientist&descSize=18&descAlignY=62&descColor=00ffff&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=🤖+Building+Intelligent+Systems+from+Scratch;🧠+Neural+Networks+%7C+Deep+Learning+%7C+MLOps;📊+Turning+Raw+Data+into+Real+Insights;🚀+Model+Training+→+Inference+→+Deployment;💡+if+(curious)+%7B+keep_building()%3B+%7D)](https://git.io/typing-svg)
+<!-- TYPING — demolab is very reliable -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+from+Scratch+%F0%9F%A4%96;Neural+Networks+%7C+Deep+Learning+%7C+MLOps+%F0%9F%A7%A0;Turning+Raw+Data+into+Real+Insights+%F0%9F%93%8A;Model+Training+%E2%86%92+Inference+%E2%86%92+Deployment+%F0%9F%9A%80;if+%28curious%29+%7B+keep_building%28%29%3B+%7D+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
 <div align="center">
+<!-- This gif is hosted directly on GitHub — always works -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+---
 
 ## 🧬 Agent Profile
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ```python
 #!/usr/bin/env python3
-# ─────────────────────────────────────────
+# ────────────────────────────────────────
 #   AGENT  :  Dhivya Shri
 #   MODULE :  profile.py  v2.0
-# ─────────────────────────────────────────
+# ────────────────────────────────────────
 
 class DhivyaShri:
 
-    name     = "Dhivya Shri"
-    title    = "AI/ML Developer & Data Engineer"
-    base     = "India 🇮🇳"
-    status   = "🟢 Open to Collaborate"
+    name   = "Dhivya Shri"
+    title  = "AI/ML Developer & Data Engineer"
+    base   = "India 🇮🇳"
+    status = "🟢 Open to Collaborate"
 
     skills = {
         "languages" : ["Python","Java","C","C++","R"],
@@ -62,11 +65,11 @@ print(agent.mission())
 ```
 
 </td>
-<td width="45%" align="center">
+<td width="45%" align="center" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DhivyaShri1385&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&icon_color=7b2ff7&border_radius=12&include_all_commits=true&count_private=true" width="100%"/>
 
-<br>
+<br/>
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=DhivyaShri1385&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=7b2ff7&currStreakLabel=00ffff&border_radius=12" width="100%"/>
 
@@ -84,27 +87,55 @@ print(agent.mission())
 
 <div align="center">
 
-### ◈ Languages
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,r&theme=dark" />
+**— LANGUAGES —**
 
-### ◈ AI / ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,anaconda&theme=dark" />
-
-### ◈ Web & Backend
-<img src="https://skillicons.dev/icons?i=flask,nodejs,html,css,js,mysql&theme=dark" />
-
-### ◈ Tools
-<img src="https://skillicons.dev/icons?i=github,figma,vscode,linux,canva&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 <br>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**— AI / ML —**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+
+<br>
+
+**— DATA & VISUALIZATION —**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+<br>
+
+**— WEB & BACKEND —**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+**— TOOLS —**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 
 </div>
@@ -116,8 +147,6 @@ print(agent.mission())
 ---
 
 ## 🚀 Mission Control
-
-<br>
 
 <table align="center">
 <tr>
@@ -179,17 +208,15 @@ learning_stack:
 
 ---
 
-## 📊 Performance Metrics
-
-<br>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaShri1385&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&border_radius=12" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaShri1385&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=c9d1d9&border_radius=12" width="44%"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaShri1385&bg_color=0d1117&color=00ffff&line=7b2ff7&point=ffffff&area=true&area_color=7b2ff720&hide_border=true&custom_title=◈ Contribution Graph ◈&title_color=00ffff&radius=12" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaShri1385&bg_color=0d1117&color=00ffff&line=7b2ff7&point=ffffff&area=true&hide_border=true&custom_title=Contribution+Graph&title_color=00ffff&radius=12" width="95%"/>
 
 <br><br>
 
@@ -203,22 +230,18 @@ learning_stack:
 
 ---
 
-## 🌐 Connect
-
-<br>
+## 🌐 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya-shri-153441290/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_dhivyashrii_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya-shri-153441290/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_dhivyashrii_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhivyashri1385@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhivyaShri1385)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhivyaShri1385)
 
 <br>
 
 ---
-
-### 💬 Quote
 
 > *"The best way to predict the future is to* ***create it with AI.***"
 > — Dhivya Shri 🤖
@@ -227,16 +250,10 @@ learning_stack:
 
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DhivyaShri1385&style=for-the-badge&color=7b2ff7&label=PROFILE+VIEWS&labelColor=0d1117)
+![](https://komarev.com/ghpvc/?username=DhivyaShri1385&style=for-the-badge&color=7b2ff7&label=PROFILE+VIEWS&labelColor=0d1117)
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00ffff,100:ff2d9b&height=130&section=footer&text=Keep+Building.+Keep+Learning.+Keep+Shipping.+🚀&fontSize=16&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&bgColor=0d1117&textColor=00ffff" alt="Jokes Card" />
 </div>
