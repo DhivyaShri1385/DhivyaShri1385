@@ -112,5 +112,5 @@ I’m open to:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00ffff,100:ff2d9b&height=120&section=footer&text=Keep+Building.+Keep+Learning.+Keep+Shipping.&fontSize=16&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00ffff,100:ff2d9b&height=120&section=footer&text=Keep+Building.+Keep+Learning.+Keep+Shipping.+%F0%9F%9A%80&fontSize=16&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%"/>
 </div>
