@@ -55,23 +55,15 @@
     <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="40"/><br><br><br>
 <b>Web & Backend:</b>&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/REST%20API-000000?style=flat&logo=fastapi&logoColor=white" height="40"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="40"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="40"/><br><br><br>
 <b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="40"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" height="40"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" height="40"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="40"/><br><br><br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="40">&nbsp;&nbsp;&nbsp;<b>Databases:</b>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="40">&nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="40">
+    <b>Databases:</b>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="40">&nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="40">
 </p><br><br>
 
 <h2 style="color:#00d4ff; display: flex; align-items: center;">
