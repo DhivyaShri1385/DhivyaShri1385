@@ -63,7 +63,6 @@
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="40"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" height="40"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <b>Databases:</b>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="40">&nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="40">
 </p><br><br>
 
 <h2 style="color:#00d4ff; display: flex; align-items: center;">
