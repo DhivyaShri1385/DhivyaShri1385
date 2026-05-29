@@ -173,8 +173,3 @@
     <img src="https://komarev.com/ghpvc/?username=DhivyaShri1385&style=flat-square&color=00d4ff" alt="Profile Views">
 </p>
 
-<div align="center">
-
-**Crafted with ❤️ by Dhivya Shri | Last Updated: January 2025**
-
-</div>
