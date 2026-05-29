@@ -69,9 +69,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaShri1385&point=00d4ff&title_color=00d4ff&bg_color=0d1117&line=00d4ff&hide_border=true&area=true&area_color=00d4ff&color=00d4ff">
 </p>
 
-<h3 style="color:#00d4ff;">✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=00d4ff&authorColor=c9d1d9&backgroundColor=0d1117&symbolColor=00d4ff">
-
 <hr>
 
 <details open> 
@@ -109,7 +106,7 @@
 <hr>
 
 <details open> 
-  <summary><h2>⭐ Certificates & Achievements</h2></summary>
+  <summary><h2>Achievements</h2></summary>
 
 <p align="center">
 <b>Achievements:</b><br><br>
@@ -125,26 +122,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="100">
 
-<div align="center">
-
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@                                                    @@
-@@   Building the Future with AI & Machine Learning  @@
-@@                                                    @@
-@@   "Great ML systems come from combining:          @@
-@@    Mathematical Rigor + Engineering Discipline    @@
-@@        + Relentless Attention to Detail"          @@
-@@                                                    @@
-@@   ╭─────────────────────────────────────────╮     @@
-@@   │ while (learning == true) {              │     @@
-@@   │     code() && test() && deploy()        │     @@
-@@   │     refactor() && optimize()            │     @@
-@@   │ }                                       │     @@
-@@   ╰─────────────────────────────────────────╯     @@
-@@                                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
 
 </div>
 
