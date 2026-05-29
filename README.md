@@ -9,21 +9,12 @@
     <a href="https://linkedin.com/in/dhivya-shri-153441290">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/YOURPROFILE">
-        <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=flat&logo=stackoverflow&logoColor=white" height="40" alt="Stack Overflow">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://facebook.com/dhivyashri">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" height="40" alt="Facebook">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/_dhivyashrii_">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="40" alt="Instagram">
     </a>&nbsp;&nbsp;
     <a href="mailto:dhivyashri1385@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="40" alt="Gmail">
     </a>&nbsp;&nbsp;
-    <a href="https://x.com/DhivyaCodes">
-        <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" height="38" alt="X">
-    </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" width="100%">
@@ -119,16 +110,6 @@
 
 <details open> 
   <summary><h2>⭐ Certificates & Achievements</h2></summary>
-
-<p align="center">
-<b>Certifications:</b><br><br>
-    <img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-006DAA?style=for-the-badge&logo=deeplearning&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/ML%20Professional%20Certificate-FFB81C?style=for-the-badge&logo=coursera&logoColor=black" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Data%20Science%20with%20Python-FF6B35?style=for-the-badge&logo=python&logoColor=white" height="40"/><br><br>
-    <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/MLOps%20Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Data%20Engineering-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40"/>
-</p>
 
 <p align="center">
 <b>Achievements:</b><br><br>
