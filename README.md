@@ -1,133 +1,154 @@
-<p align="center">
-    <a href="https://github.com/DhivyaShri1385">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Dhivya%20Shri!;Top%20AI/ML%20Engineer%20in%20India;Building%20Intelligent%20Systems;Deep%20Learning%20Specialist&font=Fira%20Code&center=true&width=640&height=45&color=00d4ff&vCenter=true&pause=1000&size=30" />
-    </a>
-</p>
+<div align="center">
 
-<!--- Adding Header Elements -->
-<p align="center">
-    <a href="https://linkedin.com/in/dhivya-shri-153441290">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40" alt="LinkedIn">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/_dhivyashrii_">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="40" alt="Instagram">
-    </a>&nbsp;&nbsp;
-    <a href="mailto:dhivyashri1385@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="40" alt="Gmail">
-    </a>&nbsp;&nbsp;
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0D1117&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dhivya+Shri+S+%F0%9F%91%8B;Data+Scientist+%26+AI+Engineer;Building+AI+that+Sees+%26+Explains" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="20" width="100%">
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" min-width="300px" max-width="300px" width="350px" align="right">
-<img width="300" alt="GitHub Metrics" src="https://github-readme-stats.vercel.app/api?username=DhivyaShri1385&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff&include_all_commits=true&count_private=true"><br>
-<img width="300" alt="Activity Calendar" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaShri1385&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9">
-
-**💻 Tech Stack:**<br><br>
-<p>
-<b>Languages:</b>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <br><br><br>
-<b>ML/AI Frameworks:</b>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" height="40"/><br><br><br>
-<b>Web & Backend:</b>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="40"/><br><br><br>
-<b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" height="40"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" height="40"/>&nbsp;&nbsp;
-</p><br><br>
-
-<h2 style="color:#00d4ff; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/DhivyaShri1385/DhivyaShri1385/main/assets/github.gif" height="40" style="vertical-align: middle; margin-right: 8px;" alt="GitHub Stats">
-    <span style="color:#00d4ff; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
-</h2>
-
-<p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhivyaShri1385&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff006e&currStreakLabel=00d4ff"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaShri1385&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&custom_title=Dhivya's%20Most%20Used%20Languages"><img src="https://github-readme-stats.vercel.app/api?username=DhivyaShri1385&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DhivyaShri1385&theme=tokyonight&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DhivyaShri1385&theme=tokyonight&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DhivyaShri1385&theme=tokyonight&utcOffset=5.5" width="33%"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhivyaShri1385&theme=tokyonight" width="100%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhivyaShri1385&point=00d4ff&title_color=00d4ff&bg_color=0d1117&line=00d4ff&hide_border=true&area=true&area_color=00d4ff&color=00d4ff">
-</p>
-
-<hr>
-
-<details open> 
-  <summary><h2>📌 Featured Projects</h2></summary>
-   <p align="center">
-    <a href="https://github.com/DhivyaShri1385/smart-classroom-manager">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DhivyaShri1385&repo=smart-classroom-manager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="Smart Classroom Manager">
-</a>
-<a href="https://github.com/DhivyaShri1385/neural-optimizer">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DhivyaShri1385&repo=neural-optimizer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="Neural Network Optimizer">
-</a>
-<a href="https://github.com/DhivyaShri1385/data-pipeline">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DhivyaShri1385&repo=data-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=00d4ff" alt="Enterprise Data Pipeline">
-</a>
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/DhivyaShri1385?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Projects-1F222E?style=for-the-badge&logoColor=00d4ff&logo=repo"/></a>
-  </p>
-</details> 
-
-<details open> 
-  <summary><h2>📊 Pinned Projects</h2></summary>
-    <a href="https://github.com/DhivyaShri1385/ml-portfolio">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DhivyaShri1385&repo=ml-portfolio&theme=tokyonight&text_color=00d4ff&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="ML Portfolio">
-</a>
-<a href="https://github.com/DhivyaShri1385/cv-projects">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DhivyaShri1385&repo=cv-projects&theme=tokyonight&text_color=00d4ff&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="Computer Vision Projects">
-</a>
-<a href="https://github.com/DhivyaShri1385/data-science-tools">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DhivyaShri1385&repo=data-science-tools&theme=tokyonight&text_color=00d4ff&hide_border=true&bg_color=0d1117&title_color=00d4ff" alt="Data Science Tools">
-</a>    
-</details> 
-
-<hr>
-
-<details open> 
-  <summary><h2>Achievements</h2></summary>
-
-<p align="center">
-<b>Achievements:</b><br><br>
-    🏆 5+ ML Projects in Production<br>
-    🎯 92% Accuracy on CV Tasks<br>
-    📊 1M+ Daily Records Processed<br>
-    ⚡ 65% Performance Improvement<br>
-    🌟 100+ GitHub Contributions<br>
-    📚 3+ Research Publications
-</p>
-
-</details> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="100">
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhivya-shri-153441290)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://dhivyashri1385.github.io/portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhivyashri1385@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_dhivyashrii_)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="100" width="100%">
+---
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=DhivyaShri1385&style=flat-square&color=00d4ff" alt="Profile Views">
-</p>
+## 🧠 About Me
 
+I'm a **Data Science & AI Engineer** from Namakkal, Tamil Nadu, India — currently pursuing my degree at **M. Kumarasamy College of Engineering**.
+
+I build intelligent systems that don't just predict — they **explain their reasoning**. My flagship project, **NeuroVision AI**, is a full-stack explainable AI platform for brain tumour diagnosis, combining deep learning ensembles, attention-based segmentation, and three XAI methods into a deployable clinical tool.
+
+```python
+dhivya = {
+    "focus"      : ["Computer Vision", "Explainable AI", "Deep Learning"],
+    "tools"      : ["TensorFlow", "PyTorch", "FastAPI", "Power BI", "IBM Watson"],
+    "location"   : "Namakkal, Tamil Nadu 🇮🇳",
+    "open_to"    : ["Internships", "Research Collaborations", "Full-time Roles"],
+    "fun_fact"   : "I once built a brain tumour classifier before breakfast ☕"
+}
+```
+
+---
+
+## 🚀 Featured Project
+
+### 🧠 [NeuroVision AI](https://github.com/DhivyaShri1385/NeuroVision-AI) &nbsp; ![Status](https://img.shields.io/badge/Status-Ongoing-22c55e?style=flat-square)
+
+> Explainable Brain Tumour Diagnosis & Segmentation Platform
+
+- 🏗️ **Architecture** — EfficientNetB3 + ResNet50 + DenseNet121 ensemble
+- 🔬 **Segmentation** — Attention U-Net (31.6M params), pixel-level MRI masking
+- 💡 **XAI** — Grad-CAM · SmoothGrad · Integrated Gradients
+- 📄 **Output** — Clinical PDF reports + React glassmorphism dashboard
+- 🐳 **Infra** — FastAPI backend · Docker · 7 development phases
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://dhivyashri1385.github.io/NeuroVision-AI/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhivyaShri1385/NeuroVision-AI)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**ML / AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F79231?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Web & Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![IBM Watson](https://img.shields.io/badge/IBM%20Watson-1F70C1?style=flat-square&logo=ibm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📂 Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🐄 [Cattle Breed Recognition](https://github.com/DhivyaShri1385/Image-Based-Breed-Recognition-System) | CNN classifier for 6 Indian cattle breeds · Streamlit UI | Python · Keras · OpenCV |
+| 🏫 Smart Classroom Manager | AI attendance & engagement tracking · IBM Watson | Python · IBM Watson |
+| 📊 Enterprise Data Pipeline | ETL pipeline · Power BI dashboards | Python · SQL · Power BI |
+| ⚡ Neural Network Optimizer | Architecture search & hyperparameter optimisation | PyTorch · Optuna |
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| ⭐ Research Appreciation — Water Service Study | **Stanford University** (King Center on Global Dev.) | — |
+| ⭐ Cloud Computing (Elite, 80%) | **NPTEL · IIT Kharagpur** | 2026 |
+| ⭐ Industry 4.0 & Industrial IoT (Elite, 77%) | **NPTEL · IIT Kharagpur** | 2025 |
+| Social Networks (58%) | NPTEL · IIT Madras | 2026 |
+| Data Analytics Job Simulation | **Deloitte** via Forage | 2026 |
+| Data Visualisation: Business Insights | **Tata** via Forage | 2024 |
+| Power BI Workshop | OfficeMaster | 2025 |
+
+---
+
+## 💼 Internships
+
+| Role | Company | Duration |
+|---|---|---|
+| Software Development Engineer Intern | **Bluestock Fintech** | May – Jun 2025 |
+| Data Science Intern | **INLIGHN TECH**, Bengaluru | Mar – Jun 2025 |
+| Data Analytics Trainee | **MedTourEasy** | Mar 2025 |
+| Data Science Intern | **Prasunet Pvt. Ltd.** | Mar – Apr 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=DhivyaShri1385&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=c9952a" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhivyaShri1385&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=111827&text_color=374151" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhivyaShri1385&theme=default&hide_border=true&background=ffffff&ring=c9952a&fire=c9952a&currStreakLabel=111827)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm open to research collaborations, internship opportunities, and interesting AI/ML projects.
+
+<div align="center">
+
+**📧 dhivyashri1385@gmail.com &nbsp;|&nbsp; 📍 Namakkal, Tamil Nadu, India**
+
+[![Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://dhivyashri1385.github.io/portfolio)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DhivyaShri1385&style=flat-square&color=c9952a" alt="Profile Views" />
+</div>
