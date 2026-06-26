@@ -22,6 +22,6 @@ jobs:
           # Examples:
           #   https://blog.yourname.dev/rss.xml   (custom domain)
           #   https://yourname.hashnode.dev/rss.xml
-          feed_list: "https://YOUR_HASHNODE_BLOG/rss.xml"
+          feed_list: "https://dhivyashri.hashnode.dev/rss.xml"
           max_post_count: 5
           commit_message: "Update latest blog posts"
