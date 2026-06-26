@@ -24,6 +24,3 @@
 <!-- RECENT_PROJECTS:START -->
 <!-- RECENT_PROJECTS:END -->
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
