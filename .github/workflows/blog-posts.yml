@@ -1,0 +1,27 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours (UTC)
+  workflow_dispatch:          # allows manual run from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest Hashnode posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Replace with YOUR Hashnode RSS feed.
+          # Hashnode feed format: https://YOUR_HASHNODE_BLOG/rss.xml
+          # Examples:
+          #   https://blog.yourname.dev/rss.xml   (custom domain)
+          #   https://yourname.hashnode.dev/rss.xml
+          feed_list: "https://YOUR_HASHNODE_BLOG/rss.xml"
+          max_post_count: 5
+          commit_message: "Update latest blog posts"
