@@ -99,7 +99,7 @@ I’m open to:
 - Research-driven problem solving
 - Data science and analytics challenges
 - Hackathons and innovation builds
-
+ 
 ---
 
 ## 🌐 Connect
